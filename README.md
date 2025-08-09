@@ -1,13 +1,19 @@
 # learning
 A running log of things I'm learning.
 
-## Core Skills
+
+### Problem Solving and learning
+|Resource|Progress|
+|---|---|
+|[Article: Problem Solving Skills](https://ryanstutorials.net/problem-solving-skills/)|⬜|
+|[Article: Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)|⬜|
 
 ### Python Programming
 
 |Resource|Progress|
 |---|---|
-
+|[Book: Learning Scientific Programming with Python](https://scipython.com/books/book2/)`0/10 chapters`|⬜|
+|[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
 
 ### Testing & Profiling
 
@@ -103,13 +109,18 @@ A running log of things I'm learning.
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)|⬜|
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|⬜|
 
-## Specialization
-<hr>
+### Data Science
+|Resource|Progress|
+|---|---|
+|[Interactive: DataWars Practice Data Sciencewith Real Life Projects](https://www.datawars.io/#features)|⬜|
+
 
 ### Traditional Machine Learning
 
 |Resource|Progress|
 |---|---|
+|[StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)`0/104 lessons`|⬜|
+|[Course: Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)`0/6 lessons`|⬜|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|⬜|
 |[Book: Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)|⬜|
@@ -119,7 +130,6 @@ A running log of things I'm learning.
 |[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|⬜|
 |[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|⬜|
 |[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|⬜|
-|[Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)|⬜|
 |[edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)|⬜|
 |[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)|⬜|
 |[Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)|⬜|
@@ -142,6 +152,9 @@ A running log of things I'm learning.
 
 |Resource|Progress|
 |---|---|
+|[Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)`0/5 lessons`|⬜|
+|[Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)`0/10 lessons`|⬜|
+|[Book: Dive into Deep Learning](https://d2l.ai/chapter_installation/index.html)`0/23 chapters`|⬜|
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|⬜|
 |[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|⬜|
@@ -184,7 +197,8 @@ A running log of things I'm learning.
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|⬜|
-|[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|2`26:45`|
+|[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)|⬜| 
+|[Course: Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)|⬜|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
@@ -377,6 +391,7 @@ A running log of things I'm learning.
 
 |Resource|Progress|
 |---|---|
+|[PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs](https://sebastianraschka.com/teaching/pytorch-1h/) `0/9 lessons`|⬜|
 |[Youtube: Slaying OOMs with PyTorch FSDP and torchao](https://youtu.be/UvRl4ansfCg)|⬜|
 |[Youtube: Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://youtu.be/toUSzwR0EV8)|⬜|
 |[Youtube: How DDP works \|\| Distributed Data Parallel ](https://youtu.be/bwNtfxEDjGA)|⬜|
@@ -495,6 +510,19 @@ A running log of things I'm learning.
 |[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
 |[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|⬜|
 
+### VIM
+|Resource|Progress|
+|---|---|
+|[Videos: Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/)`0/9`|⬜|
+|[Videos: Vim Intermediate Videos](http://derekwyatt.org/vim/tutorials/intermediate/)`0/7`|⬜|
+|[Videos: Vim Advanced Videos](http://derekwyatt.org/vim/tutorials/advanced/)`0/4`|⬜|
+|[Article: Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)|⬜|
+
+### Tutti Frutti
+|Resource|Progress|
+|---|---|
+|[Videos: The best tech talks for developers](https://dev.tube)|⬜|
+|[Article: Agile software development articles(https://gojko.net/lists/agile.html)]|⬜|
 
 ### Finance
 
