@@ -15,35 +15,6 @@ A running log of things I'm learning.
 |[Book: Learning Scientific Programming with Python](https://scipython.com/books/book2/)`0/10 chapters`|⬜|
 |[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
 
-### Testing & Profiling
-
-|Resource|Progress|
-|---|---|
-
-
-
-### Data Structures and Algorithms
-
-|Resource|Progress|
-|---|---|
-|[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|⬜|
-|[Book: The Tech Resume Inside Out](https://thetechresume.com)|⬜|
-|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|⬜|
-|[Neetcode: Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0) `1/7`|⬜|
-|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|⬜|
-|[Youtube: Sliding Window Technique - Algorithmic Mental Models](https://www.youtube.com/watch?v=MK-NZ4hN7rs) `36:44`|⬜|
-
-
-### Linux & Command Line
-
-|Resource|Progress|
-|---|---|
-
-
-### Version Control
-
-|Resource|Progress|
-|---|---|
 
 ### Databases
 
@@ -66,21 +37,13 @@ A running log of things I'm learning.
 |[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|⬜|
 |[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
 
-### Backend Engineering
-
-|Resource|Progress|
-|---|---|
-|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
-|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|⬜|
-|[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
-|[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|⬜|
-|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|⬜|
 
 ### Production System Design
 
 |Resource|Progress|
 |---|---|
 |[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|⬜|
+|[Book: Designing Machine Learning Systems]()|⬜|
 |[Neetcode: System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)|⬜|
 |[Neetcode: System Design Interview](https://neetcode.io/courses/system-design-interview)|⬜|
 |[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)|⬜|
@@ -90,10 +53,20 @@ A running log of things I'm learning.
 |[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|⬜|
 
 
-### Maths
+### Maths must
 	
 |Resource|Progress|
 |---|---|
+|[Course: Stanford CS109 Probability for Computer Scientists](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)`0/29 lectures`|⬜|
+|[Book: A First Course in Probability, by Sheldon Ross](https://chengzhaoxi.xyz/download/pdf/book/A-First-Course-in-Probability.pdf)`0/10 chapters`|⬜|
+|[Course: Introduction to Probability](https://uni.dcdev.ro/y2s2/ps/Introduction%20to%20Probability%20by%20Joseph%20K.%20Blitzstein,%20Jessica%20Hwang%20(z-lib.org).pdf)`0/13 chapters`|⬜|
+|[Course: An Introduction to Statistical Learning ](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)|
+|---|---|
+|[Course: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)`0/34 lectures`|⬜|
+
+
+### Maths complementary
+|[Course: An Introduction to Statistical Learning with Applications in Python](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)|⬜|
 |[Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|⬜|
 |[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|⬜|
 |[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|⬜|
@@ -125,6 +98,10 @@ A running log of things I'm learning.
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|⬜|
 |[Book: Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)|⬜|
 |[Book: The StatQuest Illustrated Guide To Machine Learning](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY)|⬜|
+|[Book: Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/book0.html)|⬜|
+|[Book: Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)|⬜|
+|[Book: Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)|⬜|
+|[Book: Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)|⬜|
 |[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|⬜|
 |[Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)|⬜|
 |[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|⬜|
@@ -152,9 +129,13 @@ A running log of things I'm learning.
 
 |Resource|Progress|
 |---|---|
-|[Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)`0/5 lessons`|⬜|
-|[Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)`0/10 lessons`|⬜|
+|[Course: Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)`0/16 lectures`|⬜|
+|[Course: Deep Learning for Computer Vision - Notes](https://cs231n.github.io/classification/)`0/16 lectures`|⬜|
+|[Course: Practical Deep Learning](https://course.fast.ai)`0/25 lectures`|⬜|
+|[Course: Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)`0/5 lessons`|⬜|
+|[Course: Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)`0/10 lessons`|⬜|
 |[Book: Dive into Deep Learning](https://d2l.ai/chapter_installation/index.html)`0/23 chapters`|⬜|
+|[Full Stack Deep Learning Bootcamp by Berkeley (https://fullstackdeeplearning.com/course/2022/)|⬜|
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|⬜|
 |[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|⬜|
@@ -163,11 +144,13 @@ A running log of things I'm learning.
 |[Karpathy: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero/)|⬜|
 |[Article: Weight Initialization in Neural Networks: A Journey From the Basics to Kaiming](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)|⬜|
 |[Article: Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)|⬜|
+|[Course: Probabilistic Graphical Models Specialization by Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)|
 
 ### Natural Language Processing
 
 |Resource|Progress|
 |---|---|
+|[Course: Natural Language Processing with Deep Learning by Stanford](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)`0/19 lessons`|⬜|
 |[Book: Natural Language Processing with Transformers](https://transformersbook.com/)|⬜|
 |[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|⬜|
 |[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|⬜|
@@ -185,6 +168,22 @@ A running log of things I'm learning.
 |[Article: FuzzyWuzzy: Fuzzy String Matching in Python](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/#)|⬜|
 |[Article: Transformers: Origins](https://mark-riedl.medium.com/transformers-origins-1db4bdfcb3d1)|⬜|
 
+#### Research Papers
+|Resource|Progress|
+|---|---|
+|[Text Classification Algorithms: A Survey](https://arxiv.org/abs/1904.08067)|⬜|
+|[Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)|⬜|
+|[Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)|⬜|
+|[A Survey on Text Classification: From Shallow to Deep Learning](https://arxiv.org/pdf/2008.00364.pdf)|⬜|
+|[A Survey of Transformers](https://arxiv.org/abs/2106.04554)|⬜|
+|[AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/abs/2108.05542)|⬜|
+|[Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090)|⬜|
+|[A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075)|⬜|
+|[A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201.pdf)|⬜|
+|[Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) |⬜|
+|[A Survey of Transfer learning In NLP](https://arxiv.org/pdf/2007.04239.pdf)|⬜|
+|[A Systematic Survey of Prompting Methods in NLP](https://arxiv.org/pdf/2107.13586.pdf)|⬜|
+
 ### Generative AI
 <hr>
 
@@ -196,7 +195,10 @@ A running log of things I'm learning.
 |[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|⬜|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
+|[Book: Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)|⬜|
+|[Course: Introduction to Reinforcement Learning by DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)`0/10 lectures`|⬜|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|⬜|
+|[Book: Deep reinforcement learning - Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)|⬜|
 |[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)|⬜| 
 |[Course: Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)|⬜|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
@@ -268,6 +270,7 @@ A running log of things I'm learning.
 
 | Resource | Progress |
 |---|---|
+|[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)|⬜|
 | [Article: Pretrained Transformer Language Models for Search - part 1](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-1/#) |⬜|
 | [Article: Pretrained Transformer Language Models for Search - part 2](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-2/)  |⬜|
 | [Article: Pretrained Transformer Language Models for Search - part 3](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-3)   |⬜|
@@ -546,7 +549,8 @@ A running log of things I'm learning.
 |[Youtube:How CTOs Use Tana: 5 Genius Workflows](https://www.youtube.com/watch?v=Htp7OBBZc54)|✅|
 
 
-
+## Pendiente por clasificar
+- https://deep-learning-drizzle.github.io
 
 
 
