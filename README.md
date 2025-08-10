@@ -7,6 +7,7 @@ A running log of things I'm learning.
 |---|---|
 |[Article: Problem Solving Skills](https://ryanstutorials.net/problem-solving-skills/)|⬜|
 |[Article: Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)|⬜|
+|[Video: How might we learn?](https://andymatuschak.org/hmwl/)|✅|
 
 ### Python Programming
 
@@ -551,6 +552,10 @@ A running log of things I'm learning.
 
 ## Pendiente por clasificar
 - https://deep-learning-drizzle.github.io
+- https://www.cs.ox.ac.uk/teaching/courses/
+- https://huyenchip.com/mlops/
+- https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
+- https://libroslibertarios.com.ar/economia/inicial/?mpage=3
 
 
 
