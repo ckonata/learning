@@ -5,8 +5,8 @@ A running log of things I'm learning.
 ### Problem Solving and learning
 |Resource|Progress|
 |---|---|
-|[Article: Problem Solving Skills](https://ryanstutorials.net/problem-solving-skills/)|⬜|
-|[Article: Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)|⬜|
+|[Article: Problem Solving Skills](https://ryanstutorials.net/problem-solving-skills/)|✅|
+|[Article: Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)|✅|
 |[Video: How might we learn?](https://andymatuschak.org/hmwl/)|✅|
 
 ### Python Programming
