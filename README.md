@@ -1,6 +1,8 @@
 # learning
 A running log of things I'm learning.
 
+<details>
+  <summary>Computer Science</summary>
 
 ### Problem Solving and learning
 |Resource|Progress|
@@ -9,52 +11,10 @@ A running log of things I'm learning.
 |[Article: Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)|✅|
 |[Video: How might we learn?](https://andymatuschak.org/hmwl/)|✅|
 
-### Python Programming
-
+### General Computer Science
 |Resource|Progress|
 |---|---|
-|[Book: Learning Scientific Programming with Python](https://scipython.com/books/book2/)`0/10 chapters`|⬜|
-|[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
-|[Book: Learning Python de Hard Way]()`0/54 chapters`|⬜|
-|[Book: Learn More Python 3 the Hard Way]()`0/52 chapters`|⬜|
-
-
-### Databases
-
-|Resource|Progress|
-|---|---|
-|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
-|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-and-design--ud150)|⬜|
-|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
-|[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|⬜|
-|[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|⬜|
-|[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
-|[Datacamp: Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-sql)|⬜|
-|[Datacamp: Data Manipulation in SQL](https://app.datacamp.com/learn/courses/data-manipulation-in-sql)|⬜|
-|[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)|⬜|
-|[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|⬜|
-|[Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)|⬜|
-|[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)|⬜|
-|[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)|⬜|
-|[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)|⬜|
-|[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|⬜|
-|[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
-
-
-### Production System Design
-
-|Resource|Progress|
-|---|---|
-|[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|⬜|
-|[Book: Designing Machine Learning Systems]()|⬜|
-|[Neetcode: System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)|⬜|
-|[Neetcode: System Design Interview](https://neetcode.io/courses/system-design-interview)|⬜|
-|[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)|⬜|
-|[Datacamp: A/B Testing in Python](https://www.datacamp.com/courses/ab-testing-in-python)|⬜|
-|[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
-|[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|⬜|
-|[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|⬜|
-
+|[Effective Computation in Physics]()`2/10 chapters`|⬜|
 
 ### Maths must
 	
@@ -85,11 +45,44 @@ A running log of things I'm learning.
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)|⬜|
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|⬜|
 
+### Databases
+|Resource|Progress|
+|---|---|
+
+</details>
+
+<details>
+  <summary>Programming Languages</summary>
+
+### Python Programming
+
+|Resource|Progress|
+|---|---|
+|[Book: Learning Scientific Programming with Python](https://scipython.com/books/book2/)`0/10 chapters`|⬜|
+|[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
+
+</details>
+
+<details>
+  <summary>Machine Learning and Data Science</summary>
+
 ### Data Science
 |Resource|Progress|
 |---|---|
 |[Interactive: DataWars Practice Data Sciencewith Real Life Projects](https://www.datawars.io/#features)|⬜|
 
+### Machine Learning System Design
+|Resource|Progress|
+|---|---|
+|[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|⬜|
+|[Book: Designing Machine Learning Systems]()|⬜|
+|[Neetcode: System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)|⬜|
+|[Neetcode: System Design Interview](https://neetcode.io/courses/system-design-interview)|⬜|
+|[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)|⬜|
+|[Datacamp: A/B Testing in Python](https://www.datacamp.com/courses/ab-testing-in-python)|⬜|
+|[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
+|[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|⬜|
+|[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|⬜|
 
 ### Traditional Machine Learning
 
@@ -188,7 +181,6 @@ A running log of things I'm learning.
 |[A Systematic Survey of Prompting Methods in NLP](https://arxiv.org/pdf/2107.13586.pdf)|⬜|
 
 ### Generative AI
-<hr>
 
 #### LLM Theory
 
@@ -516,26 +508,19 @@ A running log of things I'm learning.
 |[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
 |[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|⬜|
 
+</details>
+
+<details>
+  <summary>Tooling</summary>
+	
 ### VIM
+
 |Resource|Progress|
 |---|---|
 |[Videos: Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/)`0/9`|⬜|
 |[Videos: Vim Intermediate Videos](http://derekwyatt.org/vim/tutorials/intermediate/)`0/7`|⬜|
 |[Videos: Vim Advanced Videos](http://derekwyatt.org/vim/tutorials/advanced/)`0/4`|⬜|
 |[Article: Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)|⬜|
-
-### Tutti Frutti
-|Resource|Progress|
-|---|---|
-|[Videos: The best tech talks for developers](https://dev.tube)|⬜|
-|[Article: Agile software development articles(https://gojko.net/lists/agile.html)]|⬜|
-
-### Finance
-
-|Resource|Progress|
-|---|---|
-
-
 
 ### PKM Tana
 |Resource|Progress|
@@ -551,13 +536,25 @@ A running log of things I'm learning.
 |[Article:How Tana is helping me rethink my Futures research workflow.](https://medium.com/foresight-toolstack/how-tana-is-helping-me-rethink-my-futures-research-workflow-3595ed9857a7)|✅|
 |[Youtube:How CTOs Use Tana: 5 Genius Workflows](https://www.youtube.com/watch?v=Htp7OBBZc54)|✅|
 
+### Tutti Frutti
+|Resource|Progress|
+|---|---|
+|[Videos: The best tech talks for developers](https://dev.tube)|⬜|
+|[Article: Agile software development articles(https://gojko.net/lists/agile.html)]|⬜|
 
-## Pendiente por clasificar
+</details>
+
+
+
+<details>
+  <summary>Waiting for category classification</summary>
 - https://deep-learning-drizzle.github.io
 - https://www.cs.ox.ac.uk/teaching/courses/
 - https://huyenchip.com/mlops/
 - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 - https://libroslibertarios.com.ar/economia/inicial/?mpage=3
+ 
+</details>
 
 
 
