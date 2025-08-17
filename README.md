@@ -88,6 +88,7 @@ A running log of things I'm learning.
 
 |Resource|Progress|
 |---|---|
+|[Book: Artificial Intelligence: A modern approach](https://aima.cs.berkeley.edu)`0/26 lessons`|⬜|
 |[StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)`0/104 lessons`|⬜|
 |[Course: Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)`0/6 lessons`|⬜|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
