@@ -71,6 +71,13 @@ A running log of things I'm learning.
 |---|---|
 |[Interactive: DataWars Practice Data Sciencewith Real Life Projects](https://www.datawars.io/#features)|⬜|
 
+### Generative AI
+|Resource|Progress|
+|---|---|
+|[Course: OpenAI API, DeepSeek, and ChatGPT in Python](https://deeplearningcourses.com/c/deepfakes-voice-cloning)|⬜|
+
+
+
 ### Machine Learning System Design
 |Resource|Progress|
 |---|---|
