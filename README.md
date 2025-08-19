@@ -14,7 +14,7 @@ A running log of things I'm learning.
 ### General Computer Science
 |Resource|Progress|
 |---|---|
-|[Effective Computation in Physics]()`8/22 chapters`|⬜|
+|[Effective Computation in Physics]()`22/22 chapters`|✅|
 
 ### Maths must
 	
