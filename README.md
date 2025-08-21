@@ -64,6 +64,18 @@ A running log of things I'm learning.
 </details>
 
 <details>
+  <summary>Software Architecture and design</summary>
+
+### Domain Driven Design
+
+|Resource|Progress|
+|---|---|
+|[Pluralsight: Refactoring from Anemic Domain Model Towards a Rich One](https://app.pluralsight.com/ilx/video-courses/clips/7370c440-6ad3-46f3-9d3b-33234f81055c)|⬜|
+|[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
+
+</details>
+
+<details>
   <summary>Machine Learning and Data Science</summary>
 
 ### Data Science
