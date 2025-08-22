@@ -532,7 +532,7 @@ A running log of things I'm learning.
 <details>
   <summary>Tooling</summary>
 	
-### VIM
+### Editors & IDE's
 
 |Resource|Progress|
 |---|---|
@@ -540,11 +540,13 @@ A running log of things I'm learning.
 |[Videos: Vim Intermediate Videos](http://derekwyatt.org/vim/tutorials/intermediate/)`0/7`|⬜|
 |[Videos: Vim Advanced Videos](http://derekwyatt.org/vim/tutorials/advanced/)`0/4`|⬜|
 |[Article: Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)|⬜|
+|[Pluralsight: Visual Studio 2022 Fundamentals](https://app.pluralsight.com/library/courses/visual-studio-2022-fundamentals/table-of-contents)|✅|
+
 
 ### PKM Tana
 |Resource|Progress|
 |---|---|
-|[Youtube:How to Setup Tana in Minutes (Tana Beginner's Guide)](https://www.youtube.com/watch?v=pms07e4GEDo) |⬜|
+|[Youtube:How to Setup Tana in Minutes (Tana Beginner's Guide)](https://www.youtube.com/watch?v=pms07e4GEDo) |✅|
 |[Youtube:Learn Tana - Full Course for Beginners Tutorial](https://www.youtube.com/watch?v=Vlr2fNHqJWM) |⬜|
 |[Youtube:Tana Tour with Andrea Grimsdatter Stallvik: Simple Student Workflows](https://www.youtube.com/watch?v=t-YpMobjMTI) |⬜|
 |[Youtube:A Tour of Mark's Tana Setup]([https://www.youtube.com/watch?v=pms07e4GEDo](https://www.youtube.com/watch?v=K_m7YVqIgXo)) |⬜|
