@@ -61,6 +61,11 @@ A running log of things I'm learning.
 |[Book: Learning Scientific Programming with Python](https://scipython.com/books/book2/)`0/10 chapters`|⬜|
 |[Book: From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)`0/10 chapters`|⬜|
 
+
+### C# .net
+
+|Resource|Progress|
+|---|---|
 </details>
 
 <details>
