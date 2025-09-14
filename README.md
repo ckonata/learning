@@ -71,11 +71,17 @@ A running log of things I'm learning.
 <details>
   <summary>Software Architecture and design</summary>
 
+### Architecture and design
+
+|Resource|Progress|
+|---|---|
+|||
+
 ### Domain Driven Design
 
 |Resource|Progress|
 |---|---|
-|[Pluralsight: Refactoring from Anemic Domain Model Towards a Rich One](https://app.pluralsight.com/ilx/video-courses/clips/7370c440-6ad3-46f3-9d3b-33234f81055c)|⬜|
+|[Book: Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)`7/34 lessons`|⬜|
 
 </details>
 
